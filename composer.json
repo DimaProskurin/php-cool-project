@@ -1,0 +1,9 @@
+{
+    "require": {
+	"php": "^5.5||^7.0",
+        "php-http/discovery": "^1.0",
+	"phpoffice/phpword": "v0.18.*",        
+	"shopware/shopware": "^5.7",        
+	"twig/twig": "^2.12||^3.0"    
+    }
+}
